@@ -1,0 +1,49 @@
+/* CSS Document */
+
+body {
+	background-color:#E6E68A;
+
+	text-align: center;
+	margin: auto
+	border: 20px solid black;
+	width: 900px;
+	height: 500px;
+}
+
+header {
+	text-align: center;
+}
+h1{
+	font-size: 60px;
+	color: red;
+
+}
+/*ul {
+	padding: 10px;
+	background-color: black;
+}
+
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+*/
+nav {
+	font-size: 20px;
+	margin:20px auto;
+	width: 600px;
+
+}
+
+.container {
+	border: 10px solid black;
+
+}
+
+img {
+
+	margin: 0 auto;
+	border: 10px solid black;
+	border-radius: 10px;
+	
+}
